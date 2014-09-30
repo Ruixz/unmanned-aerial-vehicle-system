@@ -1,7 +1,7 @@
 unmanned-aerial-vehicle-system
 ==============================
 
-Final project from Data structure and Algorithms in 2014 Spring.
+Final project from Data structure and Algorithms in 2014 Spring at Northeastern University.
 
 Requirement:
 
